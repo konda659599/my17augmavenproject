@@ -3,7 +3,6 @@
   <groupId>com.konda659</groupId>
   <artifactId>mymavenproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>DummyProject</name>
   <packaging>jar</packaging>
-  
+  <name>DummyProject</name>
 </project>
