@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int first = 10;
-	    int second = 40;
+	    int second = 60;
 
 	    // add two numbers
 	    int sum = first + second;
