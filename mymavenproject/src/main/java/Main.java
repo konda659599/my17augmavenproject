@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int first = 200;
+		int first = 290;
 	    int second = 129;
 
 	    // add two numbers
